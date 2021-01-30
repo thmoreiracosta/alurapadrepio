@@ -174,7 +174,7 @@ export default function QuizPage({ externalQuestions, externalBg, externalBg2 })
   const question = externalQuestions[questionIndex];
   const totalQuestions = externalQuestions.length;
   const bg = externalBg;
-  const bg2 = externalBg2;
+  //const bg2 = externalBg2;
 
   function addResult(result) {
     // results.push(result);
